@@ -48,6 +48,8 @@ Dreamhack CTF 문제 풀이를 레벨별로 정리한 저장소입니다.
 | [simple-web-request](https://github.com/korkeep/CTF/tree/main/level1/simple-web-request)               |
 | [web-misconf-1](https://github.com/korkeep/CTF/tree/main/level1/web-misconf-1)                         |
 | [whatsdifferent](https://github.com/korkeep/CTF/tree/main/level1/whatsdifferent)                       |
+| [XSS-1](https://github.com/korkeep/CTF/tree/main/level1/XSS-1)                                         |
+| [XSS-2](https://github.com/korkeep/CTF/tree/main/level1/XSS-2)                                         |
 
 ---
 
