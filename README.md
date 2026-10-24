@@ -28,6 +28,7 @@ Dreamhack CTF 문제 풀이를 레벨별로 정리한 저장소입니다.
 | [file-special-bit](https://github.com/korkeep/CTF/tree/main/level1/file-special-bit)                   |
 | [Flying Chars](https://github.com/korkeep/CTF/tree/main/level1/Flying%20Chars)                         |
 | [littlevsbig](https://github.com/korkeep/CTF/tree/main/level1/littlevsbig)                             |
+| [mongoboard](https://github.com/korkeep/CTF/tree/main/level1/mongoboard)                               |
 | [netcat](https://github.com/korkeep/CTF/tree/main/level1/netcat)                                       |
 | [PathFinder](https://github.com/korkeep/CTF/tree/main/level1/PathFinder)                               |
 | [pathtraversal](https://github.com/korkeep/CTF/tree/main/level1/pathtraversal)                         |
