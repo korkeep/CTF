@@ -33,13 +33,16 @@ Dreamhack CTF 문제 풀이를 레벨별로 정리한 저장소입니다.
 | [pathtraversal](https://github.com/korkeep/CTF/tree/main/level1/pathtraversal)                         |
 | [php7cmp4re](https://github.com/korkeep/CTF/tree/main/level1/php7cmp4re)                               |
 | [phpreq](https://github.com/korkeep/CTF/tree/main/level1/phpreq)                                       |
+| [random-test](https://github.com/korkeep/CTF/tree/main/level1/random-test)                             |
 | [rev-basic-0](https://github.com/korkeep/CTF/tree/main/level1/rev-basic-0)                             |
 | [rev-basic-1](https://github.com/korkeep/CTF/tree/main/level1/rev-basic-1)                             |
 | [ROT128](https://github.com/korkeep/CTF/tree/main/level1/ROT128)                                       |
 | [Secure Mail](https://github.com/korkeep/CTF/tree/main/level1/Secure%20Mail)                           |
 | [session](https://github.com/korkeep/CTF/tree/main/level1/session)                                     |
+| [session-basic](https://github.com/korkeep/CTF/tree/main/level1/session-basic)                         |
 | [shell_basic](https://github.com/korkeep/CTF/tree/main/level1/shell_basic)                             |
 | [simple_sqli](https://github.com/korkeep/CTF/tree/main/level1/simple_slqi)                             |
+| [simple_sqli_chatgpt](https://github.com/korkeep/CTF/tree/main/level1/simple_slqi_chatgpt)             |
 | [simple-operation](https://github.com/korkeep/CTF/tree/main/level1/simple-operation)                   |
 | [simple-web-request](https://github.com/korkeep/CTF/tree/main/level1/simple-web-request)               |
 | [web-misconf-1](https://github.com/korkeep/CTF/tree/main/level1/web-misconf-1)                         |
