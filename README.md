@@ -39,6 +39,7 @@ Dreamhack CTF 문제 풀이를 레벨별로 정리한 저장소입니다.
 | [Secure Mail](https://github.com/korkeep/CTF/tree/main/level1/Secure%20Mail)                           |
 | [session](https://github.com/korkeep/CTF/tree/main/level1/session)                                     |
 | [shell_basic](https://github.com/korkeep/CTF/tree/main/level1/shell_basic)                             |
+| [simple_sqli](https://github.com/korkeep/CTF/tree/main/level1/simple_slqi)                             |
 | [simple-operation](https://github.com/korkeep/CTF/tree/main/level1/simple-operation)                   |
 | [simple-web-request](https://github.com/korkeep/CTF/tree/main/level1/simple-web-request)               |
 | [web-misconf-1](https://github.com/korkeep/CTF/tree/main/level1/web-misconf-1)                         |
